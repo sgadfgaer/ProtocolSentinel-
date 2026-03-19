@@ -99,18 +99,6 @@ systemctl --user start openclaw-gateway
 - `message.send` 不再误判 poll
 - 文档/附件恢复可用
 
----
-
-## 📷 配图建议（请自行选择）
-
-建议插入 3~4 张图（可从网络获取）：
-
-1. **报错截图**（`Poll fields require action "poll"`）
-2. **grep 定位 dist 文件截图**
-3. **sed 替换补丁截图**
-4. **附件发送成功截图**
-
----
 
 ## 🧩 适用范围
 
